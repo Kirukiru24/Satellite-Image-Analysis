@@ -96,6 +96,7 @@ __pycache__/
 - TensorFlow 2.x
 - NumPy
 - OpenCV
+- streamlit
 - scikit-learn
 - Matplotlib
 
